@@ -1,2 +1,26 @@
 # DEERCOIN-
-RACK
+<!DOCTYPE html>
+<html>
+<head>
+    <title>DEERCOIN | $RACK</title>
+    <meta name="description" content="RACK EM - View live stats on Pump.fun">
+
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://yourcustomlink.com/">
+    <meta property="og:title" content="DEERCOIN | $RACK">
+    <meta property="og:description" content="RACK EM - View live stats on Pump.fun">
+    <meta property="og:image" content="[URL_TO_YOUR_IMAGE]">
+
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:url" content="https://yourcustomlink.com/">
+    <meta name="twitter:title" content="DEERCOIN | $RACK">
+    <meta name="twitter:description" content="RACK EM - View live stats on Pump.fun">
+    <meta name="twitter:image" content="[URL_TO_YOUR_IMAGE]">
+
+    <meta http-equiv="refresh" content="1; url=https://pump.fun/your-token-link">
+</head>
+<body>
+    <p>Redirecting to $RACK... <a href="https://pump.fun/your-token-link">Click here</a> if it doesn't happen automatically.</p>
+</body>
+</html>
+
