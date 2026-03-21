@@ -17,8 +17,43 @@
     <meta name="twitter:image" content="[URL_TO_YOUR_IMAGE]">
 
     <meta http-equiv="refresh" content="1; url=https://pump.fun/your-token-link">
+    <style>
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            background-color: #0d0d0d;
+            font-family: Arial, sans-serif;
+            color: #ffffff;
+        }
+        .redirect-box {
+            text-align: center;
+        }
+        .redirect-box p {
+            font-size: 1.2rem;
+            margin-bottom: 1rem;
+        }
+        .redirect-box a {
+            display: inline-block;
+            padding: 0.75rem 1.5rem;
+            background-color: #00c853;
+            color: #ffffff;
+            text-decoration: none;
+            border-radius: 6px;
+            font-size: 1rem;
+            font-weight: bold;
+        }
+        .redirect-box a:hover {
+            background-color: #00a844;
+        }
+    </style>
 </head>
 <body>
-    <p>Redirecting to $RACK... <a href="https://pump.fun/your-token-link">Click here</a> if it doesn't happen automatically.</p>
+    <div class="redirect-box">
+        <p>Redirecting to $RACK...</p>
+        <a href="https://pump.fun/your-token-link">Click here if it doesn't happen automatically</a>
+    </div>
 </body>
 </html>
