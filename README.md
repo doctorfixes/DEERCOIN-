@@ -1,26 +1,34 @@
-# DEERCOIN-
-<!DOCTYPE html>
-<html>
-<head>
-    <title>DEERCOIN | $RACK</title>
-    <meta name="description" content="RACK EM - View live stats on Pump.fun">
+# DEERCOIN — $RACK
 
-    <meta property="og:type" content="website">
-    <meta property="og:url" content="https://yourcustomlink.com/">
-    <meta property="og:title" content="DEERCOIN | $RACK">
-    <meta property="og:description" content="RACK EM - View live stats on Pump.fun">
-    <meta property="og:image" content="[URL_TO_YOUR_IMAGE]">
+> **RACK EM** — View live stats on [Pump.fun](https://pump.fun)
 
-    <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:url" content="https://yourcustomlink.com/">
-    <meta name="twitter:title" content="DEERCOIN | $RACK">
-    <meta name="twitter:description" content="RACK EM - View live stats on Pump.fun">
-    <meta name="twitter:image" content="[URL_TO_YOUR_IMAGE]">
+DEERCOIN ($RACK) is a Solana meme coin trading on Pump.fun.  
+This repository hosts the landing page that redirects visitors directly to the token's Pump.fun listing.
 
-    <meta http-equiv="refresh" content="1; url=https://pump.fun/your-token-link">
-</head>
-<body>
-    <p>Redirecting to $RACK... <a href="https://pump.fun/your-token-link">Click here</a> if it doesn't happen automatically.</p>
-</body>
-</html>
+---
+
+## 🔗 Links
+
+| Resource | URL |
+|---|---|
+| Pump.fun listing | _replace with your token link_ |
+| Deployed site | _replace with your custom domain_ |
+
+---
+
+## 🚀 Setup
+
+1. Open `index.html`.
+2. Replace every placeholder marked with a `<!-- TODO -->` comment:
+   - `https://yourcustomlink.com/` → your deployed domain
+   - `https://pump.fun/your-token-link` → your Pump.fun token URL
+   - `[URL_TO_YOUR_IMAGE]` → a publicly hosted image URL for social previews
+3. Add a `favicon.ico` (or update the `<link rel="icon">` in `<head>`) to match your branding.
+4. Deploy via GitHub Pages, Netlify, Vercel, or any static host.
+
+---
+
+## 📄 License
+
+MIT
 
